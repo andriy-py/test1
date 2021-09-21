@@ -1,5 +1,5 @@
 @file:JvmName( "Main")
 
 fun main() {
-    println("Test 12345")
+    println("Test 6677766")
 }
